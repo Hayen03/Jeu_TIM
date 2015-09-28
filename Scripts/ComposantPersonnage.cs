@@ -11,7 +11,7 @@ public class ComposantPersonnage : MonoBehaviour{
 		return true;
 	}
 	
-	public void Awake(){
+	virtual public void Awake(){
 		Personnage p = GetComponent<Personnage>();
 		if (!p.isInit)
 			p.init();

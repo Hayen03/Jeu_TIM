@@ -1,11 +1,11 @@
-using UnityEngine
+using UnityEngine;
 
 public class PochettePotion : ComposantPersonnage{
 	public int nbPotionMax = 8;
 	private Potion[] _potions;
 	
-	public void Awake(){
-		super.Awake();
+	override public void Awake(){
+		base.Awake();
 		_potions = new Potion[nbPotionMax];
 	}
 	

@@ -1,8 +1,8 @@
-using UnityEngine
+using UnityEngine;
 
 public class Sante : ComposantPersonnage{
 
-	public void Awake(){
-		super.Awake();
+	override public void Awake(){
+		base.Awake();
 	}
 }
