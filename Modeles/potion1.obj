@@ -1,6 +1,6 @@
 # Blender v2.75 (sub 0) OBJ File: 'bouteille.blend'
 # www.blender.org
-o Cylinder
+g potion_1
 v -0.000000 -0.026857 -0.013677
 v -0.000000 0.026857 -0.013152
 v 0.009671 -0.026857 -0.009671

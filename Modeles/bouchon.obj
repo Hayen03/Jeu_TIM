@@ -1,6 +1,6 @@
 # Blender v2.75 (sub 0) OBJ File: 'bouteille.blend'
 # www.blender.org
-o bouchon
+g bouchon
 v -0.008459 -0.006504 0.000000
 v -0.005982 -0.006504 0.005982
 v -0.000000 -0.006504 0.008459
