@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 33e462e22f9e34ed891b68e6ba136a9b
+timeCreated: 1443659429
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cylinder_Cylinder.001_vert
+    100002: //RootNode
+    100004: petal.001_petal_petal
+    100006: petal.002_petal_petal
+    100008: petal.003_petal_petal
+    100010: petal.004_petal_petal
+    100012: petal.005_petal_petal
+    100014: petal.006_petal_petal
+    100016: petal.007_petal_petal
+    100018: petal.008_petal_petal
+    100020: petal.009_petal_petal
+    100022: petal.010_petal_petal
+    100024: petal.011_petal_petal
+    100026: petal.012_petal_petal
+    100028: petal.013_petal_petal
+    100030: petal.014_petal_petal
+    100032: petal.015_petal_petal
+    100034: petal_petal_petal
+    100036: Sphere_Sphere.001_jaune
+    400000: Cylinder_Cylinder.001_vert
+    400002: //RootNode
+    400004: petal.001_petal_petal
+    400006: petal.002_petal_petal
+    400008: petal.003_petal_petal
+    400010: petal.004_petal_petal
+    400012: petal.005_petal_petal
+    400014: petal.006_petal_petal
+    400016: petal.007_petal_petal
+    400018: petal.008_petal_petal
+    400020: petal.009_petal_petal
+    400022: petal.010_petal_petal
+    400024: petal.011_petal_petal
+    400026: petal.012_petal_petal
+    400028: petal.013_petal_petal
+    400030: petal.014_petal_petal
+    400032: petal.015_petal_petal
+    400034: petal_petal_petal
+    400036: Sphere_Sphere.001_jaune
+    2300000: Cylinder_Cylinder.001_vert
+    2300002: petal.001_petal_petal
+    2300004: petal.002_petal_petal
+    2300006: petal.003_petal_petal
+    2300008: petal.004_petal_petal
+    2300010: petal.005_petal_petal
+    2300012: petal.006_petal_petal
+    2300014: petal.007_petal_petal
+    2300016: petal.008_petal_petal
+    2300018: petal.009_petal_petal
+    2300020: petal.010_petal_petal
+    2300022: petal.011_petal_petal
+    2300024: petal.012_petal_petal
+    2300026: petal.013_petal_petal
+    2300028: petal.014_petal_petal
+    2300030: petal.015_petal_petal
+    2300032: petal_petal_petal
+    2300034: Sphere_Sphere.001_jaune
+    3300000: Cylinder_Cylinder.001_vert
+    3300002: petal.001_petal_petal
+    3300004: petal.002_petal_petal
+    3300006: petal.003_petal_petal
+    3300008: petal.004_petal_petal
+    3300010: petal.005_petal_petal
+    3300012: petal.006_petal_petal
+    3300014: petal.007_petal_petal
+    3300016: petal.008_petal_petal
+    3300018: petal.009_petal_petal
+    3300020: petal.010_petal_petal
+    3300022: petal.011_petal_petal
+    3300024: petal.012_petal_petal
+    3300026: petal.013_petal_petal
+    3300028: petal.014_petal_petal
+    3300030: petal.015_petal_petal
+    3300032: petal_petal_petal
+    3300034: Sphere_Sphere.001_jaune
+    4300000: Cylinder_Cylinder.001_vert
+    4300002: petal.001_petal_petal
+    4300004: petal.002_petal_petal
+    4300006: petal.003_petal_petal
+    4300008: petal.004_petal_petal
+    4300010: petal.005_petal_petal
+    4300012: petal.006_petal_petal
+    4300014: petal.007_petal_petal
+    4300016: petal.008_petal_petal
+    4300018: petal.009_petal_petal
+    4300020: petal.010_petal_petal
+    4300022: petal.011_petal_petal
+    4300024: petal.012_petal_petal
+    4300026: petal.013_petal_petal
+    4300028: petal.014_petal_petal
+    4300030: petal.015_petal_petal
+    4300032: petal_petal_petal
+    4300034: Sphere_Sphere.001_jaune
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
