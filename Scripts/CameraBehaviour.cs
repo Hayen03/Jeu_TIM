@@ -47,7 +47,11 @@ public class CameraBehaviour : MonoBehaviour{
 	// Update is called once per frame
 	void Update () {
 		Vector3 dep = Vector2.zero;
+		if (_personnage == null)
+			return;
 		InputBundle input = _personnage.input;
+		if (input == null)
+			return;
 
 		if (_personnage.state == BehaviourState.NORMAL && pointFocusRepos){
 			Vector2 d = input.mouseDelta;

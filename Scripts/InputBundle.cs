@@ -9,7 +9,8 @@ public class InputBundle{
 
 	public InputBundle(){
 		direction = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-//		mouseDelta = InputBundle.
+		mouseDelta = new Vector2(Input.GetAxis("Mouse X"), Input.GetAxis("Mouse Y"));
+		scrollWheelDelta = Input.mouseScrollDelta.y;
 	}
 
 }
