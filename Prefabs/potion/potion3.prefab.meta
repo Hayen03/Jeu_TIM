@@ -1,8 +1,10 @@
 fileFormatVersion: 2
 guid: be4151b6837fb4c61885557f39ca41df
+labels:
+- Prop
 timeCreated: 1443641996
 licenseType: Free
 NativeFormatImporter:
   userData: 
-  assetBundleName: 
+  assetBundleName: potion
   assetBundleVariant: 

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 03edd572898974205a2b957cccac6a30
+labels:
+- Ground
+- Terrain
+timeCreated: 1443797045
+licenseType: Free
+NativeFormatImporter:
+  userData: 
+  assetBundleName: environement
+  assetBundleVariant: roche

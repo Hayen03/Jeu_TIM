@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 400c3828aab344cf18ff80030fa598ef
+labels:
+- Terrain
+- Vegetation
+timeCreated: 1443719450
+licenseType: Free
+NativeFormatImporter:
+  userData: 
+  assetBundleName: environement
+  assetBundleVariant: plante

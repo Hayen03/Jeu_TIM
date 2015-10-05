@@ -93,7 +93,7 @@ ModelImporter:
     4300030: petal_petal_petal
     4300032: Sphere_Sphere.001_jaune
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:
@@ -118,7 +118,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importBlendShapes: 1
+    importBlendShapes: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -152,5 +152,5 @@ ModelImporter:
   animationType: 0
   additionalBone: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: environement
+  assetBundleVariant: plante

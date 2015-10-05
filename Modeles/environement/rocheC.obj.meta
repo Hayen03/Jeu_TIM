@@ -1,5 +1,8 @@
 fileFormatVersion: 2
 guid: 54a7fe25eac2c4cd6b5c99d6550495d9
+labels:
+- Ground
+- Terrain
 timeCreated: 1443659429
 licenseType: Free
 ModelImporter:
@@ -79,5 +82,5 @@ ModelImporter:
   animationType: 0
   additionalBone: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: environement
+  assetBundleVariant: roche

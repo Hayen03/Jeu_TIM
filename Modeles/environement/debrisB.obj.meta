@@ -7,12 +7,18 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: default
+    100004: debris2
     400000: //RootNode
     400002: default
+    400004: debris2
     2300000: default
+    2300002: debris2
     3300000: default
+    3300002: debris2
     4300000: default
+    4300002: debris2
     6400000: default
+    6400002: debris2
   materials:
     importMaterials: 0
     materialName: 0
@@ -73,5 +79,5 @@ ModelImporter:
   animationType: 0
   additionalBone: 0
   userData: 
-  assetBundleName: 
+  assetBundleName: environement
   assetBundleVariant: 

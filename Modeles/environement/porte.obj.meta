@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 420e90538225e47a78e777925645c4be
+labels:
+- Architecture
 timeCreated: 1443659429
 licenseType: Free
 ModelImporter:
@@ -109,5 +111,5 @@ ModelImporter:
   animationType: 0
   additionalBone: 0
   userData: 
-  assetBundleName: 
+  assetBundleName: construction
   assetBundleVariant: 
